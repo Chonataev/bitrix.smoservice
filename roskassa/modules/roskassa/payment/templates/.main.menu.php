@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"multi_pay", 
+		"/local/modules/roskassa/payment/templates/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"basic_pay", 
+		"/local/modules/roskassa/payment/templates/basic_pay.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"product", 
+		"/local/modules/roskassa/payment/templates/product.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+);
+?>
